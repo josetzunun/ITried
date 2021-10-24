@@ -13,6 +13,8 @@ Do i have to give credit that you made it?
 
 Answer: Yes you must tell them i made it
 
+How do i install?
+Answer: idk
 # Other Things
 If this dosent work report it as issue
 
